@@ -6,7 +6,7 @@ const fs = require('fs');
  * Extenions class.
  * @readonly
  */
-const EXTENSION_CLASS = ['shield', 'actuator', 'sensor', 'communication', 'display', 'kit', 'other'];
+const EXTENSION_CLASS = ['shield', 'actuator', 'sensor', 'communication', 'display', 'kit', 'other','ZQrobot'];//文件夹名称添加处
 
 /**
  * Device tyoe.
